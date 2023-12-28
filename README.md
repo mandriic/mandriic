@@ -16,5 +16,5 @@ I possess a versatile skill set that spans various domains within the realm of t
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/www.linkedin.com/in/mykolaandriichuk-blue)](www.linkedin.com/in/mykolaandriichuk)
+[![LinkedIn](https://img.shields.io/badge/www.linkedin.com/in/mykolaandriichuk-blue)](https://www.linkedin.com/in/mykolaandriichuk)
 
