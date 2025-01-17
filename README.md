@@ -24,6 +24,9 @@ Mastering essential techniques like extrusion, sculpting, and retopology.
 Exploring advanced tools like the Boolean modifier, remeshing, and solidify.
 Focusing on creating efficient models suitable for real-time applications, rendering, or printing.
 This journey allows me to combine creative design with technical problem-solving, enhancing my skill set for future projects or collaborations in industries such as game development, animation, and architectural visualization. I aim to develop a strong foundation in both areas, enabling me to create aesthetically pleasing and functional 3D assets while also optimizing processes with custom scripts.
+Here my first steps 
+[![Youtube](https://img.shields.io/badge/https://www.youtube.com/@pixelmxr-blue)](https://www.youtube.com/@pixelmxr/videos)
+
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/www.linkedin.com/in/mykolaandriichuk-blue)](https://www.linkedin.com/in/mykolaandriichuk)
