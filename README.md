@@ -14,6 +14,16 @@ I have a degree in computer technology from Lutsk National Technical University 
 
 I possess a versatile skill set that spans various domains within the realm of technology. Proficient in Python, I leverage its power for diverse applications, ranging from web development using Django and FastAPI to automation with web scraping. My expertise extends to Docker and Git for efficient containerization and version control, ensuring seamless collaboration and deployment. Well-versed in cybersecurity principles, I bring a deep understanding of RSA security, cryptography, and electronic systems. My knowledge extends to REST API development, SQL database management, and handling metadata intricacies. I also have hands-on experience in 3D modeling and 3D printing, utilizing my creativity in Arduino/CNC projects. In the realm of operating systems, I am proficient in Linux/UNIX, macOS, and Windows. With a keen interest in DevOps practices, I navigate cloud environments like AWS to optimize workflows and enhance project scalability. Additionally, my skills include virtualization, content management systems (CMS), coding proficiency in languages such as C and C++, and expertise in web technologies, including HTML, CSS, and JavaScript. I round out my skill set with a solid understanding of network principles, ensuring a comprehensive approach to technology.
 
+I am currently actively studying Blender, focusing on scripting and 3D modeling. Blender is a powerful open-source software widely used for creating 3D models, animations, simulations, and even game assets. My primary areas of interest include:
+Scripting in Blender:
+Learning to automate tasks using Python and Blender's API (bpy).
+Developing custom tools, operators, and panels to streamline workflows.
+Experimenting with modifiers and other functionalities programmatically.
+3D Modeling:
+Mastering essential techniques like extrusion, sculpting, and retopology.
+Exploring advanced tools like the Boolean modifier, remeshing, and solidify.
+Focusing on creating efficient models suitable for real-time applications, rendering, or printing.
+This journey allows me to combine creative design with technical problem-solving, enhancing my skill set for future projects or collaborations in industries such as game development, animation, and architectural visualization. I aim to develop a strong foundation in both areas, enabling me to create aesthetically pleasing and functional 3D assets while also optimizing processes with custom scripts.
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/www.linkedin.com/in/mykolaandriichuk-blue)](https://www.linkedin.com/in/mykolaandriichuk)
