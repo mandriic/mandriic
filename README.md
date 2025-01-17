@@ -4,7 +4,7 @@ I'm a staff and a student at 42. I'm passionate about coding, open source, and l
 
 ## About Me
 
-I am a technical staff and student at 42, a global network of innovative and disruptive IT schools that use a peer-to-peer learning methodology. I have been learning C/C++ programming and other IT skills at 42Madrid since August 2021, and working as a technical staff at 42Malaga since January 2023, where I support and guide other students in their learning journey.
+I am a freelance developer and 3D modeler. Student at 42Madrid since August 2021, and worked as a technical staff at 42Malaga since January 2023.
 
 I have a degree in computer technology from Lutsk National Technical University and more than five years of experience as an IT system administrator, where I developed the first web of the company, managed servers and networks, and designed and installed the company's network. I also have an AWS Academy Graduate certification, which demonstrates my knowledge and skills in cloud computing. I am passionate about learning and teaching IT skills, and I enjoy working with diverse and collaborative teams that share the same vision and values. My goal is to become a proficient and creative IT professional who can contribute to the development and innovation of the IT industry.
 
