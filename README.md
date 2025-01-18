@@ -1,7 +1,5 @@
 # Hello, I'm Mykola Andriichuk 👋
 
-I'm a staff and a student at 42. I'm passionate about coding, open source, and learning new technologies.
-
 ## About Me
 
 I am a freelance developer and 3D modeler. Student at 42Madrid since August 2021, and worked as a technical staff at 42Malaga since January 2023.
