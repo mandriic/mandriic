@@ -13,7 +13,7 @@ Automation and AI Pipelines: Hands-on experience integrating AI models into prod
 Technical 3D/Graphics: Deep understanding of 3D data structures, procedural logic via Blender Geometry Nodes, and graphics pipelines; 
 I combine strong analytical problem-solving skills with practical experience in evaluating complex algorithmic logic and code efficiency.
 
-[![Youtube](https://img.shields.io/badge/https://www.youtube.com/@pixelmxr-blue)](https://www.youtube.com/@pixelmxr/videos)
+[![Youtube](https://img.shields.io/badge/https://www.youtube.com/@pixels-mixer-blue)](https://www.youtube.com/@pixels-mixer)
 
 ## Connect with Me
 
